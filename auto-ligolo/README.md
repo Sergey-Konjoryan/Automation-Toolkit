@@ -10,7 +10,7 @@ When performing pivoting and lateral movement, setting up the `ligolo` interface
 * **Privilege Validation:** Checks for root/sudo permissions before execution.
 * **Environment Setup:** Automatically sets the interface state to UP for immediate use.
 
-## ### Usage:
+## Usage:
 1. **Make the script executable:** `chmod +x auto-ligolo.sh`
 2. **Run with sudo:** `sudo ./auto-ligolo.sh`
 3. **The script will create a `ligolo` interface and set it to UP.**
